@@ -1,1 +1,7 @@
+pip>=25.2
+setuptools>=70.0
+wheel>=0.43
+
 aiohttp==3.9.5
+fastapi
+uvicorn
